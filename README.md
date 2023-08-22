@@ -67,7 +67,7 @@ herramientas o habilidades técnicas:
   de Terminado.
 
 
-### 5. Definición del producto
+### 4. Definición del Producto
 
 En el `README.md` cuéntanos brevemente cómo descubriste las necesidades de los
 usuarios y cómo llegaste a la definición final de tu producto. Es importante
