@@ -76,7 +76,7 @@ que detalles:
 * Quiénes son los principales usuarios de producto.
 * Qué problema resuelve el producto / para qué le servirá a estos usuarios.
 
-### 5.3 Historias de usuario
+### 4.1 Historias de usuario
 
 Una vez que entiendas las necesidades de tus usuarixs, escribe las Historias de
 Usuario que representen todo lo que necesitan hacer/ver en la Red Social. Cada
@@ -94,7 +94,7 @@ una de tus Historias de Usuario debe tener:
     usuarios como mejoras.
   - Desplegaron su aplicación y etiquetaron la versión (git tag).
 
-### 5.4 Diseño de la Interfaz de Usuario (prototipo de baja fidelidad)
+### 4.2 Diseño de la Interfaz de Usuario (prototipo de baja fidelidad)
 
 Comenzamos haciendo un pequeño cuestionario en el que recopilamos información básica sobre que tipo de mascotas tenían, que era lo que les gustaba ver en una red social o página web, en cuanto a color e imagenenes. ![image](https://github.com/JB-Gra/DEV008-social-network/assets/131560414/b30e2b04-c99f-4d72-aa5c-0fab38fd3740)
 
@@ -102,7 +102,7 @@ Luego de tener una idea de que es lo que les gustaba a los usuario de primera ma
 ![image](https://github.com/JB-Gra/DEV008-social-network/assets/131560414/4bd8fb0b-e5e9-4637-b470-7ccf11deebb1)
 
 
-### 5.5 Responsive
+### 4.3 Responsive
 
 Debe verse bien en dispositivos de pantallas grandes
 (computadoras/es, laptops, etc.) y pequeñas (_tablets_, celulares, etc.). Te
@@ -112,7 +112,7 @@ al final).
 
 Para poder ver un poco más a fondo nuestros diseños, usamos una herramienta llamada figma: https://www.figma.com/file/4Kyr21Ck8lopy0iOSGeilf/RS09---Instapet?type=design&node-id=0-1&mode=design&t=7GHLvW0jVGBY1TA4-0
 
-### 5.6 Consideraciones del comportamiento de la interfaz de usuario (UI)
+### 4.4 Consideraciones del comportamiento de la interfaz de usuario (UI)
 ![image](https://github.com/JB-Gra/DEV008-social-network/assets/131560414/a7a3607d-3b3c-4b58-8f02-3e08d0089047)
 
 
