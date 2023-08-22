@@ -4,8 +4,8 @@
 
 * [1. Preámbulo](#1-preámbulo)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
-* [3. Consideraciones generales](#4-consideraciones-generales)
-* [5. Definición del Prducto])
+* [3. Consideraciones generales](#3-consideraciones-generales)
+* [4. Definición del Producto](#4-definición-del-producto)
 
 ## 1. Preámbulo
 
@@ -20,7 +20,7 @@ Ante la era digital, muchas viejas prácticas fueron abandonadas, pero hoy en d�
 
 ## 2. Resumen del proyecto
 
-Para poder realizar nuestra Red Social, lo primero que hicimos fue pensar que es lo que pudiera llamar la atención del usuario, la comida, el maquillaje, los viajes, la música, el tema era más interesante uno tras otros, pero entonces pensamos en lo relaciones, vinvulos, amistad y unión. De este pensamiento e idea en conjunto es que pudimos llegar al punto en el que pensamos en una red social para los peludos amigos (perros, gastos, conejos, parajos, incluso reptiles), porque nuestros mejores amigos tambíen merecen un espacio dónde puedan poner lo piensan. Aunque sabemos que nuestros peludos y no peludos amigos no pueden utilizar una aplicación, nosotros si podemos. Pero, ¿Quien no se ha puesto a pensar que es lo que piensa mi mascota?, ¿Si pudiera hablar, entonces que diria?.
+Para poder realizar nuestra Red Social [Instapet](https://instapet-rs9.web.app/), lo primero que hicimos fue pensar que es lo que pudiera llamar la atención del usuario, la comida, el maquillaje, los viajes, la música, el tema era más interesante uno tras otros, pero entonces pensamos en lo relaciones, vinvulos, amistad y unión. De este pensamiento e idea en conjunto es que pudimos llegar al punto en el que pensamos en una red social para los peludos amigos (perros, gastos, conejos, parajos, incluso reptiles), porque nuestros mejores amigos tambíen merecen un espacio dónde puedan poner lo piensan. Aunque sabemos que nuestros peludos y no peludos amigos no pueden utilizar una aplicación, nosotros si podemos. Pero, ¿Quien no se ha puesto a pensar que es lo que piensa mi mascota?, ¿Si pudiera hablar, entonces que diria?.
 InstaPet es el medio por el cual los pensamientos de nuestra mascota es que van a estar seguros.
 
 
@@ -67,7 +67,7 @@ herramientas o habilidades técnicas:
   de Terminado.
 
 
-### 5 Definición del producto
+### 5. Definición del producto
 
 En el `README.md` cuéntanos brevemente cómo descubriste las necesidades de los
 usuarios y cómo llegaste a la definición final de tu producto. Es importante
